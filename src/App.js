@@ -161,7 +161,7 @@ export default function App() {
         {step === 1 && (
           <div className="animate-fade-in">
             <h2 style={{ marginTop: 0, fontSize: '1.75rem', marginBottom: '8px' }}>Step 1. System Hardware</h2>
-            <p style={{ color: '#6b7280', marginBottom: '24px' }}>Tell us about the solar system you want to install.</p>
+            <p style={{ color: '#6b7280', marginBottom: '24px' }}>Details about the solar system you want to install.</p>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '20px' }}>
               <NumberField label="Total Installation Cost" value={inputs.installationCost} onChange={v => update({ installationCost: v })} suffix="$ NZD" />

@@ -19,10 +19,9 @@ This web application lets you enter details about your home's solar system and p
 - Hosted on GitHub Pages
 
 ## How to Run Locally
-1. cd into the `client` directory
-2. run `npm install`
-3. run `npm start`
-4. Open the app in your browser
+1. run `npm install`
+2. run `npm start`
+3. Open the app in your browser
 
 ---
 

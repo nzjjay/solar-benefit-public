@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/solar-benefit-app/static/css/main.c51e4e0a.css",
+    "main.js": "/solar-benefit-app/static/js/main.354028f3.js",
+    "index.html": "/solar-benefit-app/index.html",
+    "main.c51e4e0a.css.map": "/solar-benefit-app/static/css/main.c51e4e0a.css.map",
+    "main.354028f3.js.map": "/solar-benefit-app/static/js/main.354028f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51e4e0a.css",
+    "static/js/main.354028f3.js"
+  ]
+}
